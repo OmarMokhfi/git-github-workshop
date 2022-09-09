@@ -1,10 +1,10 @@
 {
   "name": "git-github-ui-library",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "Creating a UI library using react and mainting the library with Git, github and Github actions",
   "author": "Omar Mokhfi",
   "license": "MIT",
-  "repository": "https://github.com/OmarMokhfi/ui-library-react.git",
+  "repository": "https://github.com/OmarMokhfi/git-github-workshop",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
