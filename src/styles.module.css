@@ -1,0 +1,11 @@
+/* add css module styles here (optional) */
+
+.button {
+  background: '#fff';
+  border: '0.2rem solid #0099ff';
+  color: '#0099ff';
+  letter-spacing: '0.1em';
+  font-weight: 'bold';
+  padding: '1em';
+  text-transform: 'uppercase';
+}
