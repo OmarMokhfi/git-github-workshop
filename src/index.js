@@ -8,8 +8,8 @@ const Button = ({ disabled, label, onClick }) => (
       {`
         button {
           background: #fff;
-          border: 0.2rem solid #0000ff;
-          color: #0000ff;
+          border: 0.2rem solid #ff0000;
+          color: #ff0000;
           letterspacing: 0.1em;
           fontweight: bold;
           padding: 1em;
@@ -18,7 +18,7 @@ const Button = ({ disabled, label, onClick }) => (
           transition: all 0.3s ease;
         }
         button:hover {
-          background: #0000ff;
+          background: #ff0000;
           color: #fff;
         }
       `}
