@@ -8,17 +8,17 @@ const Button = ({ disabled, label, onClick }) => (
       {`
         button {
           background: #fff;
-          border: 0.2rem solid #ff0000;
-          color: #ff0000;
+          border: 0.2rem solid #00ff00;
+          color: #00ff00;
           letterspacing: 0.1em;
           fontweight: bold;
-          padding: 1em;
+          padding: 2em;
           texttransform: uppercase;
           cursor: pointer;
           transition: all 0.3s ease;
         }
         button:hover {
-          background: #ff0000;
+          background: #00ff00;
           color: #fff;
         }
       `}

@@ -1,6 +1,6 @@
 {
   "name": "git-github-ui-library",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "description": "Creating a UI library using react and mainting the library with Git, github and Github actions",
   "author": "Omar Mokhfi",
   "license": "MIT",
